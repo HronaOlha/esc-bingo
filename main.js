@@ -9,7 +9,7 @@ document.querySelector("#app").innerHTML = `
     <p>
       Mark off a box every time it happens on screen during the show - and reward yourself with a sip of your chosen drink!
     </p>
-    <img src="./images/esc-sweden.png" alt="esc sweden logo">
+    <img src="./images/esc-2024-logo.png" alt="esc 2024 logo">
   </div>
 `;
 
